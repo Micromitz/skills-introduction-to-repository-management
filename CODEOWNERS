@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Micromitz
+/src/backend/database.py      @Micromitz
+/src/backend/routers/auth.py  @Micromitz
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Micromitz
